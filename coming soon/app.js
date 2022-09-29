@@ -21,4 +21,4 @@ app.get('/', function(req, res) {
 });
 
 server.listen(port);
-console.log(`Server started`);
+console.log(`Server started gay`);
