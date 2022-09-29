@@ -1,0 +1,37 @@
+html {
+    background-color: #2c4c3b;
+  }
+
+.font {
+    font-family: 'Inter Tight', sans-serif;
+}
+
+.center {
+    text-align: center;
+    width: 100%;
+}
+
+.bottom {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: 10%;
+    text-align: center;
+}
+
+#svg {
+    max-width: 792px;
+    max-height: 322.437px;
+}
+
+#MainText {
+    font-size: 50px;
+}
+
+#BottomText {
+    font-size: 30px;
+}
+
+#mail {
+    color: #04172D;
+}
